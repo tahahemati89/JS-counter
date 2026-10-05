@@ -15,12 +15,12 @@ increase.addEventListener("click", () => {
 // Reset Button
 reset.addEventListener("click", () => {
   countElement.textContent = count = 0;
-  countElement.style.color = "white"
+  countElement.style.color = "white";
 });
 
 // Reduction Button
 reduction.addEventListener("click", () => {
   count--;
   countElement.textContent = count;
-  countElement.style.color = "red"
+  countElement.style.color = "red";
 });
