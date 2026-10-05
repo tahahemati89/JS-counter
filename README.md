@@ -26,16 +26,6 @@ This project was built as part of my JavaScript project practice, with a focus o
 
 ---
 
-## 📸 Preview
-
-Add a screenshot of the project here:
-
-```md
-![Counter Preview](./screenshot.png)
-```
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
