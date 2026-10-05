@@ -1,1 +1,12 @@
 @import "tailwindcss";
+
+@font-face {
+    font-family: varela;
+    src: url(../varela.ttf);
+}
+
+body {
+    background-image: linear-gradient(135deg, #3f1f68, #2f26ad);
+    height: 100vh;
+    font-family: varela;
+}
